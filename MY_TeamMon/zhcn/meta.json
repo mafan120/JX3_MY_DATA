@@ -1,7 +1,7 @@
 {
-  "name": "默认数据",
-  "author": "默认",
-  "version": "20190812",
+  "name": "当铺",
+  "author": "基于南宫伯",
+  "version": "20200510",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
