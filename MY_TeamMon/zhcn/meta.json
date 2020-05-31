@@ -1,7 +1,7 @@
 {
   "name": "当铺",
   "author": "工商银行",
-  "version": "20200515",
+  "version": "20200531",
   "data_url": "./data.jx3dat",
   "about": "../README.md"
 }
